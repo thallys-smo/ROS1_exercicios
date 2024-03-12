@@ -1,3 +1,3 @@
-## Exercicio 5 - ROS Noetic
+## Guia de Exercicios ROS Noetic
 
-Xacro e Gazebo - Não funcional, depois consertarei
+A ideia deste repositório é armazenar os exercicios desenvolvidos para o aprendizado do ROS Noetic
